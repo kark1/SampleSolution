@@ -10,7 +10,7 @@ namespace SampleApplication.Controllers
     {
         //
         // GET: /Shan/
-
+//added comment line by kark1
         public ActionResult Index()
         {
             return View();
